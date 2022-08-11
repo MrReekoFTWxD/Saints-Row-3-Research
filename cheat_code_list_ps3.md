@@ -1,5 +1,6 @@
-CheatsList
+##CheatsList
 
+```
 Name: InfiniteMass (CAR_MASS_HOLE)
 Desc: CAR_MASS_HOLE_DESC
 apply_cheat_func: 0x1130CA0
@@ -484,3 +485,4 @@ Name: Grenade_Electric (GIVE_ELECTRIC)
 Desc: GIVE_WEAPON_DESC
 apply_cheat_func: 0x1130CC8
 deapply_cheat_func: 0x0
+```
