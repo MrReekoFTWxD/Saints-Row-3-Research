@@ -1,4 +1,4 @@
-##CheatsList
+## CheatsList
 
 ```
 Name: InfiniteMass (CAR_MASS_HOLE)
