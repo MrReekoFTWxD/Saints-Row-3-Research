@@ -1,5 +1,41 @@
 ```cpp
 
+struct axle_wheel_info
+{
+    bool does_steer;
+    bool reverse_steer;
+    bool does_handbrake;
+    char pad_0003[1];
+    float engine_torque_factor;
+    float mass;
+    float friction;
+    float ai_friction;
+    float max_friction;
+    float drifting_friction_modifier;
+    float braking_torque;
+    float spring_length;
+    float spring_strength;
+    float spring_max_force;
+    float compression_damping;
+    float expansion_damping;
+    float ramp_compression_damping;
+    float min_suspension_length;
+    float max_suspension_length;
+}; //Size: 0x0040
+
+struct transmission_info
+{
+    unsigned int num_gears;
+    float gear_ratios[6];
+    float downshift_rpms[5];
+    float upshift_rpm;
+    float differential_gear_ratio;
+    float reverse_gear_ratio;
+    float clutch_delay;
+    float m_maximum_rpm_rate;
+    char pad_0044[36];
+}; //Size: 0x0068
+
 #pragma pack (1)
 struct vehicle_info
 {
