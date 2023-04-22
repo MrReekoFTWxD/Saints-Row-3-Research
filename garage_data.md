@@ -3,6 +3,8 @@
 Some structs done for PS3 version of SR3 - I have found a way to save a vehicle im currently in to my garage. Still trying to find a way to spawn/create vehicles
 if anyone has any info hmu on discord. 
 
+My next idea to try and spawn a vehicle is to possible invoke a lua function from my sprx
+
 How I saved vehicles im currently in to my garage from anywhere
 
 ![image](https://cdn.discordapp.com/attachments/698690083154559087/1099242493016559687/image.png)
