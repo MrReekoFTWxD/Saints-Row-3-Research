@@ -1,0 +1,682 @@
+{
+	"Brunette":
+	{
+		"Index": 0,
+		"Display Name": "BRUNETTE",
+		"Display Name crc": 0x4429BF54,
+		"Swatch Label": "B2",
+		"Swatch Image": 0x3DAEC58B,
+		"Shader Ball Id": 0xB6,
+		"Color":
+		{
+			"Hue": 0.133,
+			"Saturation Light": 0.800,
+			"Saturation Dark": 0.800,
+			"Brightness": 0.070,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.300,
+			"Specular Bright": [0.690, 0.259, 0.157],
+			"Specular Dark": [0.341, 0.063, 0.000],
+		},
+	},
+	"Auburn":
+	{
+		"Index": 1,
+		"Display Name": "AUBURN",
+		"Display Name crc": 0x8120746E,
+		"Swatch Label": "B3",
+		"Swatch Image": 0x9DF560D1,
+		"Shader Ball Id": 0xC8,
+		"Color":
+		{
+			"Hue": 0.250,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 0.950,
+			"Brightness": 0.230,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.350,
+			"Specular Bright": [0.761, 0.443, 0.235],
+			"Specular Dark": [0.380, 0.176, 0.102],
+		},
+	},
+	"Light Brown":
+	{
+		"Index": 2,
+		"Display Name": "LIGHT BROWN",
+		"Display Name crc": 0x885BC6AB,
+		"Swatch Label": "B4",
+		"Swatch Image": 0xA4B12B29,
+		"Shader Ball Id": 0xD0,
+		"Color":
+		{
+			"Hue": 0.533,
+			"Saturation Light": 0.400,
+			"Saturation Dark": 0.900,
+			"Brightness": 0.350,
+			"Brightness Bias": 0.030,
+			"Specular Alpha": 0.500,
+			"Specular Bright": [0.761, 0.678, 0.525],
+			"Specular Dark": [0.780, 0.643, 0.396],
+		},
+	},
+	"Redhead":
+	{
+		"Index": 3,
+		"Display Name": "REDHEAD",
+		"Display Name crc": 0x6769E7A,
+		"Swatch Label": "R1",
+		"Swatch Image": 0x5DB4E573,
+		"Shader Ball Id": 0xB7,
+		"Color":
+		{
+			"Hue": 0.167,
+			"Saturation Light": 0.810,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.900,
+			"Brightness Bias": 0.040,
+			"Specular Alpha": 0.400,
+			"Specular Bright": [0.910, 0.635, 0.451],
+			"Specular Dark": [1.000, 0.612, 0.000],
+		},
+	},
+	"Strawberry Blonde":
+	{
+		"Index": 4,
+		"Display Name": "STRAWBERRY BLONDE",
+		"Display Name crc": 0x7A004A87,
+		"Swatch Label": "R2",
+		"Swatch Image": 0x56DDC700,
+		"Shader Ball Id": 0xCA,
+		"Color":
+		{
+			"Hue": 0.433,
+			"Saturation Light": 0.600,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.750,
+			"Brightness Bias": 0.100,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [0.878, 0.733, 0.635],
+			"Specular Dark": [0.780, 0.478, 0.373],
+		},
+	},
+	"Blonde":
+	{
+		"Index": 5,
+		"Display Name": "BLONDE",
+		"Display Name crc": 0x3170B20,
+		"Swatch Label": "A1",
+		"Swatch Image": 0x1FC21F9F,
+		"Shader Ball Id": 0xB4,
+		"Color":
+		{
+			"Hue": 0.633,
+			"Saturation Light": 0.500,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.900,
+			"Brightness Bias": 0.230,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [1.000, 0.922, 0.780],
+			"Specular Dark": [0.780, 0.678, 0.490],
+		},
+	},
+	"Gray":
+	{
+		"Index": 6,
+		"Display Name": "GRAY",
+		"Display Name crc": 0x4894FC4,
+		"Swatch Label": "M1",
+		"Swatch Image": 0x178017B2,
+		"Shader Ball Id": 0xD1,
+		"Color":
+		{
+			"Hue": 0.133,
+			"Saturation Light": 0.000,
+			"Saturation Dark": 0.000,
+			"Brightness": 0.750,
+			"Brightness Bias": 0.020,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [0.831, 0.831, 0.831],
+			"Specular Dark": [0.522, 0.522, 0.522],
+		},
+	},
+	"White":
+	{
+		"Index": 7,
+		"Display Name": "WHITE",
+		"Display Name crc": 0x34903FF2,
+		"Swatch Label": "A2",
+		"Swatch Image": 0xFC59C8EC,
+		"Shader Ball Id": 0xB8,
+		"Color":
+		{
+			"Hue": 0.000,
+			"Saturation Light": 0.000,
+			"Saturation Dark": 0.000,
+			"Brightness": 0.700,
+			"Brightness Bias": 0.200,
+			"Specular Alpha": 0.750,
+			"Specular Bright": [1.000, 1.000, 1.000],
+			"Specular Dark": [1.000, 1.000, 1.000],
+		},
+	},
+	"Bleached Blonde":
+	{
+		"Index": 8,
+		"Display Name": "BLEACHED BLONDE",
+		"Display Name crc": 0xD89E973C,
+		"Swatch Label": "A3",
+		"Swatch Image": 0x1EC80A02,
+		"Shader Ball Id": 0xC9,
+		"Color":
+		{
+			"Hue": 0.417,
+			"Saturation Light": 0.250,
+			"Saturation Dark": 0.500,
+			"Brightness": 0.750,
+			"Brightness Bias": 0.200,
+			"Specular Alpha": 0.800,
+			"Specular Bright": [0.961, 0.941, 0.953],
+			"Specular Dark": [0.961, 0.725, 0.569],
+		},
+	},
+	"Bright Red":
+	{
+		"Index": 9,
+		"Display Name": "BRIGHT RED",
+		"Display Name crc": 0x5FE416B5,
+		"Swatch Label": "U1",
+		"Swatch Image": 0xD649F11,
+		"Shader Ball Id": 0xCE,
+		"Color":
+		{
+			"Hue": 0.017,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 1.000,
+			"Brightness Bias": 0.100,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [1.000, 0.588, 0.490],
+			"Specular Dark": [0.890, 0.353, 0.227],
+		},
+	},
+	"Bright Pink":
+	{
+		"Index": 10,
+		"Display Name": "BRIGHT PINK",
+		"Display Name crc": 0x3A6E268,
+		"Swatch Label": "U2",
+		"Swatch Image": 0xE92125D8,
+		"Shader Ball Id": 0xCD,
+		"Color":
+		{
+			"Hue": 5.583,
+			"Saturation Light": 0.750,
+			"Saturation Dark": 0.800,
+			"Brightness": 0.800,
+			"Brightness Bias": 0.300,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [1.000, 0.561, 0.796],
+			"Specular Dark": [1.000, 0.294, 0.859],
+		},
+	},
+	"Bright Orange":
+	{
+		"Index": 11,
+		"Display Name": "BRIGHT ORANGE",
+		"Display Name crc": 0xE1B6C9E0,
+		"Swatch Label": "U6",
+		"Swatch Image": 0xAE99DEA6,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 0.250,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.800,
+			"Brightness Bias": 0.260,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [0.788, 0.788, 0.788],
+			"Specular Dark": [0.922, 0.545, 0.290],
+		},
+	},
+	"Bright Yellow":
+	{
+		"Index": 12,
+		"Display Name": "BRIGHT YELLOW",
+		"Display Name crc": 0x2C779407,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x63588341,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 0.917,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.700,
+			"Brightness Bias": 0.250,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [0.980, 0.976, 0.949],
+			"Specular Dark": [0.961, 0.925, 0.616],
+		},
+	},
+	"Bright Yellow_green":
+	{
+		"Index": 13,
+		"Display Name": "BRIGHT YELLOW-GREEN",
+		"Display Name crc": 0xA4E25BAD,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x40F3B058,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 1.383,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.700,
+			"Brightness Bias": 0.300,
+			"Specular Alpha": 0.650,
+			"Specular Bright": [0.851, 0.851, 0.851],
+			"Specular Dark": [1.000, 0.984, 0.859],
+		},
+	},
+	"Bright Green":
+	{
+		"Index": 14,
+		"Display Name": "BRIGHT GREEN",
+		"Display Name crc": 0x15007A7C,
+		"Swatch Label": "U5",
+		"Swatch Image": 0xE5E56EFF,
+		"Shader Ball Id": 0xCF,
+		"Color":
+		{
+			"Hue": 1.833,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.980,
+			"Brightness Bias": 0.020,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [0.608, 0.922, 0.525],
+			"Specular Dark": [0.224, 0.439, 0.353],
+		},
+	},
+	"Bright Blue-green":
+	{
+		"Index": 15,
+		"Display Name": "BRIGHT BLUE-GREEN",
+		"Display Name crc": 0x9E096ED6,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x4036C2F0,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 2.583,
+			"Saturation Light": 0.950,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.880,
+			"Brightness Bias": 0.080,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [0.525, 0.702, 0.800],
+			"Specular Dark": [0.000, 0.235, 1.000],
+		},
+	},
+	"Bright Blue":
+	{
+		"Index": 16,
+		"Display Name": "BRIGHT BLUE",
+		"Display Name crc": 0xB1F3590A,
+		"Swatch Label": "U4",
+		"Swatch Image": 0x5B749EBA,
+		"Shader Ball Id": 0xB5,
+		"Color":
+		{
+			"Hue": 3.333,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.900,
+			"Brightness Bias": 0.100,
+			"Specular Alpha": 0.450,
+			"Specular Bright": [0.522, 0.831, 1.000],
+			"Specular Dark": [0.055, 0.337, 0.490],
+		},
+	},
+	"Bright Indigo":
+	{
+		"Index": 17,
+		"Display Name": "BRIGHT INDIGO",
+		"Display Name crc": 0x40BB5FD7,
+		"Swatch Label": "U4",
+		"Swatch Image": 0x16739765,
+		"Shader Ball Id": 0xB5,
+		"Color":
+		{
+			"Hue": 4.050,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.900,
+			"Brightness Bias": 0.120,
+			"Specular Alpha": 0.340,
+			"Specular Bright": [0.251, 0.231, 1.000],
+			"Specular Dark": [0.302, 0.294, 0.510],
+		},
+	},
+	"Bright Purple":
+	{
+		"Index": 18,
+		"Display Name": "BRIGHT PURPLE",
+		"Display Name crc": 0x16F60A7E,
+		"Swatch Label": "U3",
+		"Swatch Image": 0x59D91D38,
+		"Shader Ball Id": 0xDC,
+		"Color":
+		{
+			"Hue": 4.750,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.920,
+			"Brightness Bias": 0.080,
+			"Specular Alpha": 0.350,
+			"Specular Bright": [0.682, 0.682, 0.682],
+			"Specular Dark": [0.933, 0.467, 0.694],
+		},
+	},
+	"Dark Red":
+	{
+		"Index": 19,
+		"Display Name": "DARK RED",
+		"Display Name crc": 0x2127A99D,
+		"Swatch Label": "U1",
+		"Swatch Image": 0xC7D78266,
+		"Shader Ball Id": 0xCE,
+		"Color":
+		{
+			"Hue": 0.017,
+			"Saturation Light": 0.750,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.200,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [1.000, 0.196, 0.000],
+			"Specular Dark": [0.671, 0.267, 0.173],
+		},
+	},
+	"Dark Pink":
+	{
+		"Index": 20,
+		"Display Name": "DARK PINK",
+		"Display Name crc": 0x366D892D,
+		"Swatch Label": "U2",
+		"Swatch Image": 0x278A725A,
+		"Shader Ball Id": 0xCD,
+		"Color":
+		{
+			"Hue": 5.583,
+			"Saturation Light": 0.700,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.080,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.350,
+			"Specular Bright": [0.761, 0.235, 0.506],
+			"Specular Dark": [0.639, 0.129, 0.510],
+		},
+	},
+	"Dark Orange":
+	{
+		"Index": 21,
+		"Display Name": "DARK ORANGE",
+		"Display Name crc": 0xB6D8FFBB,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x52232E93,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 0.250,
+			"Saturation Light": 0.900,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.450,
+			"Brightness Bias": 0.050,
+			"Specular Alpha": 0.600,
+			"Specular Bright": [1.000, 0.561, 0.259],
+			"Specular Dark": [0.769, 0.373, 0.094],
+		},
+	},
+	"Dark Yellow":
+	{
+		"Index": 22,
+		"Display Name": "DARK YELLOW",
+		"Display Name crc": 0x7B19A25C,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x9FE27374,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 0.917,
+			"Saturation Light": 0.800,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.060,
+			"Brightness Bias": 0.020,
+			"Specular Alpha": 0.250,
+			"Specular Bright": [0.941, 0.878, 0.337],
+			"Specular Dark": [0.780, 0.702, 0.000],
+		},
+	},
+	"Dark Yellow_green":
+	{
+		"Index": 23,
+		"Display Name": "DARK YELLOW-GREEN",
+		"Display Name crc": 0x5EC056BA,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x4F9800A8,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 1.383,
+			"Saturation Light": 0.750,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.030,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.200,
+			"Specular Bright": [0.545, 0.902, 0.027],
+			"Specular Dark": [0.467, 0.761, 0.031],
+		},
+	},
+	"Dark Green":
+	{
+		"Index": 24,
+		"Display Name": "DARK GREEN",
+		"Display Name crc": 0x13830408,
+		"Swatch Label": "U5",
+		"Swatch Image": 0xE69D27A4,
+		"Shader Ball Id": 0xCF,
+		"Color":
+		{
+			"Hue": 1.833,
+			"Saturation Light": 0.750,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.030,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.300,
+			"Specular Bright": [0.545, 0.941, 0.431],
+			"Specular Dark": [0.278, 0.800, 0.149],
+		},
+	},
+	"Dark Blue_green":
+	{
+		"Index": 25,
+		"Display Name": "DARK BLUE-GREEN",
+		"Display Name crc": 0xAC92FD29,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x62A37FA0,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 2.583,
+			"Saturation Light": 0.750,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.030,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.300,
+			"Specular Bright": [0.278, 0.890, 0.620],
+			"Specular Dark": [0.000, 0.812, 0.455],
+		},
+	},
+	"Dark Blue":
+	{
+		"Index": 26,
+		"Display Name": "DARK BLUE",
+		"Display Name crc": 0x8438324F,
+		"Swatch Label": "U4",
+		"Swatch Image": 0x95DFC938,
+		"Shader Ball Id": 0xB5,
+		"Color":
+		{
+			"Hue": 3.333,
+			"Saturation Light": 0.770,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.030,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.300,
+			"Specular Bright": [0.188, 0.592, 0.812],
+			"Specular Dark": [0.082, 0.494, 0.722],
+		},
+	},
+	"Dark Indigo":
+	{
+		"Index": 27,
+		"Display Name": "DARK INDIGO",
+		"Display Name crc": 0x17D5698C,
+		"Swatch Label": "U4",
+		"Swatch Image": 0xF32EB8A4,
+		"Shader Ball Id": 0xB5,
+		"Color":
+		{
+			"Hue": 4.050,
+			"Saturation Light": 0.800,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.100,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.350,
+			"Specular Bright": [0.275, 0.259, 1.000],
+			"Specular Dark": [0.294, 0.278, 0.710],
+		},
+	},
+	"Dark Purple":
+	{
+		"Index": 28,
+		"Display Name": "DARK PURPLE",
+		"Display Name crc": 0x41983C25,
+		"Swatch Label": "U3",
+		"Swatch Image": 0xA563ED0D,
+		"Shader Ball Id": 0xDC,
+		"Color":
+		{
+			"Hue": 4.750,
+			"Saturation Light": 0.600,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.030,
+			"Brightness Bias": 0.010,
+			"Specular Alpha": 0.300,
+			"Specular Bright": [0.843, 0.439, 1.000],
+			"Specular Dark": [0.561, 0.243, 0.690],
+		},
+	},
+	"violet-red":
+	{
+		"Index": 29,
+		"Display Name": "IRIDESCENT 1",
+		"Display Name crc": 0x7AD5EF7E,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x5975299,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 5.467,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.620,
+			"Brightness Bias": 0.080,
+			"Specular Alpha": 1.000,
+			"Specular Bright": [0.000, 0.478, 0.741],
+			"Specular Dark": [0.000, 0.647, 1.000],
+		},
+	},
+	"violet-red red shift":
+	{
+		"Index": 30,
+		"Display Name": "IRIDESCENT 2",
+		"Display Name crc": 0xE3DCBEC4,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x9C9E0323,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 5.467,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.100,
+			"Brightness Bias": 0.000,
+			"Specular Alpha": 1.000,
+			"Specular Bright": [0.561, 0.110, 0.000],
+			"Specular Dark": [1.000, 0.000, 0.000],
+		},
+	},
+	"black pink shift":
+	{
+		"Index": 31,
+		"Display Name": "IRIDESCENT 3",
+		"Display Name crc": 0x94DB8E52,
+		"Swatch Label": "U6",
+		"Swatch Image": 0xEB9933B5,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 0.917,
+			"Saturation Light": 0.000,
+			"Saturation Dark": 0.000,
+			"Brightness": 0.020,
+			"Brightness Bias": 0.000,
+			"Specular Alpha": 0.800,
+			"Specular Bright": [0.400, 0.000, 0.561],
+			"Specular Dark": [0.718, 0.000, 1.000],
+		},
+	},
+	"blue green shift":
+	{
+		"Index": 32,
+		"Display Name": "IRIDESCENT 4",
+		"Display Name crc": 0xABF1BF1,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x75FDA616,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 3.333,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.150,
+			"Brightness Bias": 0.000,
+			"Specular Alpha": 0.800,
+			"Specular Bright": [0.157, 0.769, 0.000],
+			"Specular Dark": [0.200, 1.000, 0.000],
+		},
+	},
+	"green blue shift":
+	{
+		"Index": 33,
+		"Display Name": "IRIDESCENT 5",
+		"Display Name crc": 0x7DB82B67,
+		"Swatch Label": "U6",
+		"Swatch Image": 0x2FA9680,
+		"Shader Ball Id": 0xCB,
+		"Color":
+		{
+			"Hue": 1.833,
+			"Saturation Light": 1.000,
+			"Saturation Dark": 1.000,
+			"Brightness": 0.100,
+			"Brightness Bias": 0.000,
+			"Specular Alpha": 0.900,
+			"Specular Bright": [0.000, 0.400, 0.620],
+			"Specular Dark": [0.000, 0.647, 1.000],
+		},
+	},
+}
